@@ -1,3 +1,5 @@
 # Enhance face pictures
 
-This is an app that leverages ML technology for image restoration of faces.
+Pic Enhancer is an application that uses ML technology for image restoration of faces.
+
+See a live demo [here](https://pic-enhancer.rufenmatt.repl.co/).
