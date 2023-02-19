@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+label.btn.btn--file.btn--primary.btn--upload {
+    border-radius: 0.75rem;
+}
