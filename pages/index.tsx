@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         </h1>
 
         <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
-          Have old and blurry face photos? Let AI restore them so those
+          You got old and blurry photos? Let AI restore them so those
           memories can live on.
         </p>
         <div className="flex justify-center space-x-4">
