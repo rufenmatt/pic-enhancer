@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 sm:mt-28 mt-20">
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-slate-900 sm:text-7xl">
-          Enhange old photos{" "}
+          Enhance old photos{" "}
           <span className="relative whitespace-nowrap text-[#FFBF00]">
             <SquigglyLines />
             <span className="relative">using AI</span>
